@@ -1,9 +1,9 @@
 algoritmo "equacao"
 // curso:       algoritmos
 // prof:        gustavo guanabara
-// descri�ao:   resolve equa�oes de segundo grau
+// descricao:   resolve equacoes de segundo grau
 // autor:       luana moreira
-// data in�cio: 04/07/2024
+// data inicio: 04/07/2024
 
 var
 a, b, c: inteiro
