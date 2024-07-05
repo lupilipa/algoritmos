@@ -83,6 +83,5 @@ inicio
    escreval("vdd e falso?", verdadeiro e falso)
    escreval("(",x,"=",y,") ou (",z,">",x,")?: ", (x=y) ou (z>x))
    escreval("nao((",x,"=",y,") ou (",z,">",x,"))?: ", nao((x=y) ou (z>x)))
-   
 
 fimalgoritmo
