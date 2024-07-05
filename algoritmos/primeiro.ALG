@@ -6,11 +6,14 @@ algoritmo "primeiro"
 // data inicio: 04/07/2024
 
 var
-
+msg: caractere
 
 inicio
+msg <- "oii mona"
+escreval(msg)
 escreval("oiiiiiiiii mona")
 // escreval pula linha
-escreva("bem vindos ao meu mundeco minusculo")
+escreval("bem vindos ao meu mundeco minusculo")
+escreval("mensagem eh: ", msg)
 
 fimalgoritmo
